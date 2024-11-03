@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "StoreApp",
+    "editor.snippetSuggestions": "inline",
+    "csharp.format.enable": true
+}
